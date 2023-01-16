@@ -31,8 +31,9 @@ matrix(c(1:9), ncol = 3, byrow = TRUE)
 matrix(c(1:9), nrow = 3, ncol = 3, byrow = TRUE) 
 ```
 ### 2- Matrix algebra in R
-> **matrix calculation: **
-The below equation is an **affine transformation** because of matrix $b$
+
+> Matrix calculations
+>> The below equation is an **affine transformation** because of matrix $b$
 
 $$y=xA^{-1}+b$$
 
