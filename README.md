@@ -6,7 +6,7 @@ Review of MS-E2112 - Multivariate Statistical Analysis D @Aalto University
 This repo mainly summarize the main concepts in Multivariate Statistical Analysis  in R:
 
 [R basics](#ex1)
-[Matrix Algebra basics](#{Matrix algebra in R}) 
+[Matrix Algebra basics](#Matrix algebra in R}) 
 
 
 > ```R
