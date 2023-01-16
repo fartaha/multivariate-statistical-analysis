@@ -18,7 +18,7 @@ This repo mainly summarize the main concepts in Multivariate Statistical Analysi
 
 
 
-## 1- How to create matrix and vector in R
+## EX1
 ```R
 #=============================================#
 #       Matrix multiplication and inverse
