@@ -6,7 +6,7 @@ Review of MS-E2112 - Multivariate Statistical Analysis D @Aalto University
 This repo mainly summarize the main concepts in Multivariate Statistical Analysis  in R:
 
 [R basics](#ex1)
-[Matrix Algebra basics](#(Matrix algebra in R)) 
+[Matrix Algebra basics](#ex2) 
 
 
 > ```R
@@ -18,7 +18,7 @@ This repo mainly summarize the main concepts in Multivariate Statistical Analysi
 
 
 
-## EX1
+## EX1 R Basics
 ```R
 #=============================================#
 #       Matrix multiplication and inverse
@@ -32,7 +32,7 @@ matrix(c(1:9))
 matrix(c(1:9), ncol = 3, byrow = TRUE) 
 matrix(c(1:9), nrow = 3, ncol = 3, byrow = TRUE) 
 ```
-## Matrix algebra in R
+## EX2
 
 > Matrix calculations
 >> The below equation is an **affine transformation** because of matrix $b$
