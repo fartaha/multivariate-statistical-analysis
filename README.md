@@ -36,7 +36,7 @@ The below equation is an **affine transformation** because of matrix $b$
 
 $$y=xA^{-1}+b$$
 
-$y=\underbrace{\begin{pmatrix}  
+$$y=\underbrace{\begin{pmatrix}  
 8 & -4 & 2
 \end{pmatrix}}_{\text{x}}\underbrace{\begin{pmatrix}  
 2 & 1 & 5\\  
@@ -44,7 +44,7 @@ $y=\underbrace{\begin{pmatrix}
 5 & -8 & -1  
 \end{pmatrix}^{-1}}_{A^{-1}}+\underbrace{\begin{pmatrix}  
 3 & 10 & -19
-\end{pmatrix}}_{\text{b}}$
+\end{pmatrix}}_{\text{b}}$$
 
 ```R
 #=============================================#
